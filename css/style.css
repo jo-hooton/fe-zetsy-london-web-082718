@@ -25,7 +25,8 @@ h1 {
 	font-size: 5em;
 	font-weight: normal;
 	font-family: 'Libre Baskerville', serif;
-	border-bottom: 1px solid #ccc;
+	border-bottom: 1px
+	color: #ccc
 }
 
 h2 {
